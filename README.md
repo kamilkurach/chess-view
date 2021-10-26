@@ -12,7 +12,7 @@
 
 ## General info
 
-Chess board state recognition for IRL chess stream. Plugin translates pieces positions to 2d board view.
+Chessboard state recognition for Chess IRL stream. Plugin translates pieces positions to 2d board view.
 
 ## Technologies
 
