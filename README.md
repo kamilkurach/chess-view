@@ -8,8 +8,9 @@
 * [Hardware](#hardware)
 * [Install](#Install)
 * [Dataset](#dataset)
-* [Board recognition](#board-recognition)
-* [Pieces recognition](#pieces-recognition)
+* [Camera Calibration](#camera-calibration)
+* [Board Recognition](#board-recognition)
+* [Pieces Recognition](#pieces-recognition)
 * [Summary](#summary)
 
 ## General info
@@ -30,6 +31,8 @@ Chessboard state recognition for Chess IRL stream. Plugin translates pieces posi
 ## Install
 
 ## Dataset
+
+## Camera Calibration
 
 ## Board Recognition
 
