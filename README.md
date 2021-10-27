@@ -6,6 +6,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Install](#Install)
+* [Hardware](#hardware)
+* [Dataset](#dataset)
 * [Board recognition](#board-recognition)
 * [Pieces recognition](#pieces-recognition)
 * [Summary](#summary)
@@ -21,7 +23,13 @@ Chessboard state recognition for Chess IRL stream. Plugin translates pieces posi
 * Tensorflow
 * OBS Studio
 
+## Hardware
+
+* Logitech C270
+
 ## Install
+
+## Dataset
 
 ## Board Recognition
 
