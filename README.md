@@ -5,8 +5,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Install](#Install)
 * [Hardware](#hardware)
+* [Install](#Install)
 * [Dataset](#dataset)
 * [Board recognition](#board-recognition)
 * [Pieces recognition](#pieces-recognition)
