@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wp2</folder>
+	<filename>2021-10-30-040650.jpg</filename>
+	<path>/home/yacotaco/Dokumenty/dev/ChessView/image_data/wp2/2021-10-30-040650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>50</ymin>
+			<xmax>616</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
