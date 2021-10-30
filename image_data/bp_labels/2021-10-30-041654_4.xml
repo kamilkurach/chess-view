@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bp</folder>
+	<filename>2021-10-30-041654_4.jpg</filename>
+	<path>/home/yacotaco/Dokumenty/dev/ChessView/image_data/bp/2021-10-30-041654_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>281</ymin>
+			<xmax>441</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
