@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'wp'
+}
+item {
+    id: 2
+    name: 'bp'
+}
