@@ -1,8 +1,7 @@
 # Chessboard state recognition
 
-<img src="" alt="drawing" width="600"/>
-
 ## Table of contents
+
 * [General info](#general-info)
 * [Build thread on Twitter](#build-thread-on-twitter)
 * [Technologies](#technologies)
@@ -16,7 +15,7 @@
 
 ## General info
 
-Chessboard state recognition for Chess IRL stream. Plugin translates pieces positions to 2d board view.
+Chessboard state recognition for OTB Chess.
 
 ## Build thread on Twitter
 
